@@ -14,7 +14,7 @@ const Navbar = () => {
                     
                     Oluwajuwon Portfolio</motion.span>
                 <div className="socials">
-                    <a href=""><img src="/instagram.png" alt="" /></a>
+                    <a href=""><img src="./insagram.png" alt="" /></a>
                     <a href=""><img src="/instagram.png" alt="" /></a>
                     <a href=""><img src="/instagram.png" alt="" /></a>
                     <a href=""><img src="/instagram.png" alt="" /></a>
